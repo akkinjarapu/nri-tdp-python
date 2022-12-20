@@ -8,6 +8,6 @@
 #welcome
 
 print(10)
-print()
+print() # empty line
 print(20.68)
 print('welcome')
